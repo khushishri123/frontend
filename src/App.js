@@ -5,7 +5,7 @@ import StudentFrontend from './StudentFrontend'
 function App() {
   return (
     <div>
-      Hello World<br></br>
+      <h3>Hello World</h3><br></br>
   <StudentFrontend></StudentFrontend>
     </div>
   );
