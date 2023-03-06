@@ -90,7 +90,7 @@ function deleteStudent()
 
 <br></br><br></br>
 
-<h1>Update Student</h1>
+<h1>Update Student by providing roll number,name,city and percentage</h1>
 <form>
 
 <div class="mb-3">
